@@ -1,0 +1,24 @@
+body{
+  z-index: -1;
+}
+
+input {
+  margin-left: 10px;
+}
+
+input[type="radio"]{
+  margin-top: 7px;
+  margin-right: 7px;
+}
+
+.navbarhitam{
+position:  relative;
+z-index: 1;
+}
+
+.rcp{
+
+  position: absolute;
+  z-index: 0;
+  top: 66px;
+}
